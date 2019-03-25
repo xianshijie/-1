@@ -9,4 +9,7 @@ if slow The smart announcement game is over!
 
 Come and play with friends.
 
+If you have any questions, please contact: gtewy1654@sina.com
+
+
 ![image](https://github.com/xianshijie/-1/blob/master/%E5%9B%BE%E5%83%8F/1553497781129.png)![image](https://github.com/xianshijie/-1/blob/master/%E5%9B%BE%E5%83%8F/1553497804721.png)![image](https://github.com/xianshijie/-1/blob/master/%E5%9B%BE%E5%83%8F/1553497810159.png)![image](https://github.com/xianshijie/-1/blob/master/%E5%9B%BE%E5%83%8F/1553497814325.png)
